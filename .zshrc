@@ -85,3 +85,5 @@ alias grun='java org.antlr.v4.runtime.misc.TestRig'
 alias gdh='git diff HEAD'
 alias gdh1='git diff HEAD~1'
 alias pyserv='python -m SimpleHTTPServer'
+
+cd

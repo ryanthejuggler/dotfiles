@@ -19,6 +19,7 @@ Bundle 'digitaltoad/vim-jade'
 " Bundle 'Valloric/YouCompleteMe'
 Bundle 'justinmk/vim-syntax-extra'
 Bundle 'groenewege/vim-less'
+Bundle 'derekwyatt/vim-scala'
 
 colorscheme vividchalk
 
